@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Ejercicio6 {
+public class ejercicio6 {
     public static void main(String[] args) {
         int N = 10; // Número de primeros números primos a mostrar
         int[] primes = getPrimes(N);

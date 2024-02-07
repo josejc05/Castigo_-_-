@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ejercicio8 {
     public static void main(String[] args) {
         int[] numbers = readNumbers();
         double average = calculateAverage(numbers);

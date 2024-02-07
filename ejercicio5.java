@@ -1,4 +1,4 @@
-public class Ejercicio5 {
+public class ejercicio5 {
     public static void main(String[] args) {
         int N = 10;
         int[][] tablaMultiplicar = generarTablaMultiplicar(N);
